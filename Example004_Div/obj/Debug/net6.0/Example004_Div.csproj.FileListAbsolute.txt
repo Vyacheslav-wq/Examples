@@ -1,0 +1,15 @@
+F:\Training\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+F:\Training\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+F:\Training\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+F:\Training\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+F:\Training\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+F:\Training\Examples\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
